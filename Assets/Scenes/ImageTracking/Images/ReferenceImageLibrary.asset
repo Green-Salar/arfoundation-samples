@@ -47,3 +47,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: QRCode
     m_Texture: {fileID: 2800000, guid: a6fd8503774c0402aa403884f5b77f39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4649068688022146061
+      m_GuidHigh: 2256345881479578298
+    m_SerializedTextureGuid:
+      m_GuidLow: 14651601008014738437
+      m_GuidHigh: 14249585593731403177
+    m_Size: {x: 0.104775, y: 0.10412422}
+    m_SpecifySize: 0
+    m_Name: screen
+    m_Texture: {fileID: 2800000, guid: 41794405f17dcb54a94de29699b2c0c5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5457305883395559228
+      m_GuidHigh: 6890666049105170096
+    m_SerializedTextureGuid:
+      m_GuidLow: 2643004529649882887
+      m_GuidHigh: 10677130273123681019
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: one
+    m_Texture: {fileID: 2800000, guid: d1879707d69d24adfb421bde69c92c94, type: 3}

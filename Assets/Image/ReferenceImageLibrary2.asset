@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary2
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5583784738237419811
+  m_GuidHigh: 16372438595352258972
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4966143560391807910
+      m_GuidHigh: 4939244040560353722
+    m_SerializedTextureGuid:
+      m_GuidLow: 17799439325046169879
+      m_GuidHigh: 11659178790136288041
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: roll
+    m_Texture: {fileID: 2800000, guid: ba7ee1174fc2f7042993d72e56b9cda1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5052883076567498824
+      m_GuidHigh: 11629866674311809441
+    m_SerializedTextureGuid:
+      m_GuidLow: 6707178067357316548
+      m_GuidHigh: 15900217758102168200
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: gol
+    m_Texture: {fileID: 2800000, guid: 861fb5c4aeea5d1488a209dbceeba8dc, type: 3}
